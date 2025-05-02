@@ -1,5 +1,5 @@
 resource_group = "SA-RG"
 location       = "eastus"
-storage_name = "storageacctdubsky001yadigg"
+storage_name = "storageacctdubsky001"
 
 
